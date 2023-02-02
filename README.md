@@ -1,3 +1,5 @@
+<img alt="meowth in pc" width="150px" src="images/meowthpc.gif" align="right" style="margin-left: 10px">
+
 ### Hi there, it's good to see you here 👾👋
 
 My name is José Vinicius Targino Muniz, I am a Computer Technician and majoring in Systems Analysis and Development!
