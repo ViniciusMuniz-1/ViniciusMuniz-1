@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, it's good to see you here
 
+My name is José Vinicius Targino Muniz
 <!--
 **ViniciusMuniz-1/ViniciusMuniz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
