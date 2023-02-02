@@ -9,8 +9,7 @@ Along with that, I also developed a game as a final project for the Technician i
 I intend, in the near future, to work with game development or as a software creator as a back-end developer.
 ##Hobbies:
 While I'm not coding, I like to watch anime and play different games.
-
-[Linkedin](https://www.linkedin.com/in/josé-muniz-374685209/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-muniz-374685209/)
 <!--
 **ViniciusMuniz-1/ViniciusMuniz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
