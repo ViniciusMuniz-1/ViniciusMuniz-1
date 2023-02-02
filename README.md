@@ -1,8 +1,8 @@
 ### Hi there, it's good to see you here 👾👋
 
-##My name is José Vinicius Targino Muniz, I am a Computer Technician and majoring in Systems Analysis and Development!
+## My name is José Vinicius Targino Muniz, I am a Computer Technician and majoring in Systems Analysis and Development!
 
-##Experience as a developer:
+## Experience as a developer: \n 
 I worked for 7 months on an internship for an internet provider in Rio Grande do Norte, GTNET, as a back-end developer in php. 
 Along with that, I also developed a game as a final project for the Technician in Informatics.
 ##Future:
