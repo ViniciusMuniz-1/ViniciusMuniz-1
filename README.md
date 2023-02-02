@@ -1,4 +1,4 @@
-<img alt="meowth in pc" width="150px" src="meowthcoding.gif" align="right" style="margin-left: 10px">
+<img alt="meowth in pc" width="150px" src="meowth coding.gif" align="right" style="margin-left: 10px">
 
 ### Hi there, it's good to see you here 👾👋
 
