@@ -12,4 +12,7 @@ I intend, in the near future, to work with game development or as a software cre
 ## Hobbies:
 While I'm not coding, I like to watch anime and play different games.
 
+## Linguagens que possuo conhecimento:
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-muniz-374685209/)
