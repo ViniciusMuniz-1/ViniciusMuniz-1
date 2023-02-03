@@ -15,7 +15,7 @@ While I'm not coding, I like to watch anime and play different games.
 ## Technologies:
 [<img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://docs.python.org/ "Python")
 [<img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://docs.oracle.com/en/java/ "Java")
-[<img align="center" alt="PHP" height="30" width="30" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/docs.php/ "PHP")
+[<img align="center" alt="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/docs.php/ "PHP")
 [<img align="center" alt="Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.w3.org/html/ "Html")
 [<img align="center" alt="Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.w3schools.com/css/ "Css")
 [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
